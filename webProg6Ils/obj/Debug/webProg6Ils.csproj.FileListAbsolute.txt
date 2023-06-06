@@ -1,0 +1,839 @@
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Russel\Desktop\webProg6Ils\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webprog6ilsMEMPIN - Copy\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss - Copy\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.pdb
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll.config
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.pdb
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe.config
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.rsp
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe.config
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.rsp
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.AppContext.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Console.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe.config
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.rsp
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.dll
+E:\Downloads\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit-added-image\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Russel\Projects\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\webprog6ilssssssss-goodshit\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.pdb
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.AppContext.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Console.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.rsp
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.dll
+C:\Users\Lokkk\Desktop\system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.pdb
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\webProg6Ils.pdb
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.exe.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csc.rsp
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.exe.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\csi.rsp
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.AppContext.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Console.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.exe.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\vbc.rsp
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\webprog6ilssssssss GOODSHIT\webProg6Ils\obj\Debug\webProg6Ils.pdb
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\webProg6Ils.dll.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\webProg6Ils.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\webProg6Ils.pdb
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\csc.exe
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\csc.exe.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\csc.rsp
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\csi.exe
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\csi.exe.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\csi.rsp
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.AppContext.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Collections.Immutable.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Console.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.IO.Compression.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.IO.FileSystem.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.IO.Pipes.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Security.AccessControl.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Security.Claims.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.ValueTuple.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Xml.XPath.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\vbc.exe
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\vbc.exe.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\vbc.rsp
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\VBCSCompiler.exe
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\roslyn\VBCSCompiler.exe.config
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\obj\Debug\webProg6Ils.csprojAssemblyReference.cache
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\obj\Debug\webProg6Ils.csproj.CoreCompileInputs.cache
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\obj\Debug\webProg6Ils.csproj.CopyComplete
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\obj\Debug\webProg6Ils.dll
+D:\LAPTOP FILES\STI webprog system ils\webprog6ils FINAL\gadget inquirer\webProg6Ils\obj\Debug\webProg6Ils.pdb

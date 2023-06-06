@@ -1,0 +1,109 @@
+﻿body {
+    background-color:#515151;
+    font-family: 'Eurostile';
+    margin:40px 40px 40px 0;
+}
+#main {
+    margin-left: 220px;
+    margin-top: 40px;
+    transition: margin-left 0.5s;
+}
+
+.sidenav {
+    height: 100%;
+    width: 13%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    transition: 0.5s;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+    background-color: dodgerblue;
+}
+
+.active {
+    background-color: #515151;
+    color: white
+}
+
+.opener {
+    position: absolute;
+    top: 50%;
+    background-color: black;
+    padding: 10px;
+}
+
+.sidenav .btn-Close {
+    position: absolute;
+    top: 0;
+    right: 22px;
+    margin-left: 30px;
+}
+
+.sidenav .btn-Close:hover {
+    color: red;
+    background-color: #111;
+}
+
+.tbl {
+    width:100%;
+}
+
+#TextBox1 {
+    background-color:rgb(0,0,0);
+    border:1px solid dodgerblue;
+    width:55%;
+    color:white;
+    font-size:18px;
+    font-family:'Eurostile';
+}
+
+#Button1 {
+    background-color: rgb(0,0,0);
+    border: 1px solid dodgerblue;
+    color: white;
+    font-size: 19px;
+    padding:1px 10px 1px 10px;
+    font-family: 'Eurostile';
+}
+
+#Button1:hover {
+    background-color:dodgerblue;
+}
+
+.DList {
+    background-color: rgb(0,0,0);
+    border: 1px solid dodgerblue;
+    color: white;
+    font-size: 19px;
+    padding: 0 10px 0 10px;
+    font-family: 'Eurostile';
+}
+
+table.grivdiew {
+    text-align:center;
+    padding:2px;
+}
+
+table.grivdiew th {
+    background-color: dodgerblue;
+    padding: 15px;
+}
+
+table.grivdiew td {
+    padding:10px;
+}

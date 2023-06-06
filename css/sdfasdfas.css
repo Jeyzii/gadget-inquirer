@@ -1,0 +1,220 @@
+body {
+            background-color:#515151;
+            font-family: 'Eurostile';
+            margin:0px 0px 0px 0px;
+        }
+        .content {
+            position:absolute;
+            top: 50px;
+            left: 19%;
+        }
+        .auto-style1 {   
+            background-color:rgba(0, 0, 0, 0.9);
+            color:white;
+            border:2px solid #2778f9;
+            padding:30px 30px 30px 30px;
+            text-align:center;
+        }
+        .auto-style2 {
+            padding: 5px 20px 5px 5px;
+        }
+        .auto-style3 {
+            padding: 5px 5px 5px 20px;
+        }
+        #TextBox1,#TextBox2,#TextBox3,#TextBox4,#TextBox5,#TextBox6,#TextBox7 {
+            background: rgba(0,0,0,0.1);
+            border:1px solid #2778f9;
+            color:white;
+        }
+        .sidenav {
+            height: 100%;
+            width: 17%;
+            position: fixed;
+            background-color: #111;
+            overflow-x: hidden;
+            padding-top: 20px;
+        }
+
+        .sidenav a {
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            font-size: 25px;
+            color: white;
+            display: block;
+        }
+
+        .sidenav a:hover {
+            color: #f1f1f1;
+            background-color:#515151;
+        }
+        .active {
+            background-color:#515151;
+            color:white
+        }
+        .dropdown {
+            float: left;
+            overflow: hidden;
+        }
+
+        .dropdown .dropbtn {
+            font-size: 16px;  
+            border: none;
+            outline: none;
+            color: white;
+            padding: 14px 16px;
+            background-color: inherit;
+            font-family: inherit;
+            margin: 0;
+        }
+
+        .navbar a:hover, .dropdown:hover .dropbtn {
+            border-bottom:5px solid dodgerblue;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            float: none;
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+
+
+
+
+
+    <div class="sidenav">
+        <a href="#dashbla">Dashboard</a>
+        <a href="#tabla" class="active">Tables</a>
+        <a href="#blabla">blabla</a>
+        <a href="#blabla">blabla</a>
+        <div class="dropdown">
+            <button class="dropbtn">Dropdown 
+                <i class="fa fa-caret-down"></i>
+            </button>
+        <div class="dropdown-content">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+        </div>
+        </div> 
+</div>
+
+
+        body {
+            background-color:#515151;
+            font-family: 'Eurostile';
+            margin:0px 0px 0px 0px;
+        }
+        .content {
+            position:absolute;
+            top: 50px;
+            left: 19%;
+        }
+        .auto-style1 {   
+            background-color:rgba(0, 0, 0, 0.9);
+            color:white;
+            border:2px solid #2778f9;
+            padding:30px 30px 30px 30px;
+            text-align:center;
+        }
+        .auto-style2 {
+            padding: 5px 20px 5px 5px;
+        }
+        .auto-style3 {
+            padding: 5px 5px 5px 20px;
+        }
+        #TextBox1,#TextBox2,#TextBox3,#TextBox4,#TextBox5,#TextBox6,#TextBox7 {
+            background: rgba(0,0,0,0.1);
+            border:1px solid #2778f9;
+            color:white;
+        }
+        .sidenav {
+            height: 100%;
+            width: 17%;
+            position: fixed;
+            background-color: #111;
+            overflow-x: hidden;
+            padding-top: 20px;
+        }
+
+        .sidenav a {
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            font-size: 25px;
+            color: white;
+            display: block;
+        }
+
+        .sidenav a:hover {
+            color: #f1f1f1;
+            background-color:#515151;
+        }
+        .active {
+            background-color:#515151;
+            color:white
+        }
+        .dropdown {
+            float: left;
+            overflow: hidden;
+        }
+
+        .dropdown .dropbtn {
+            font-size: 16px;  
+            border: none;
+            outline: none;
+            color: white;
+            padding: 14px 16px;
+            background-color: inherit;
+            font-family: inherit;
+            margin: 0;
+        }
+
+        .navbar a:hover, .dropdown:hover .dropbtn {
+            border-bottom:5px solid dodgerblue;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            float: none;
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
